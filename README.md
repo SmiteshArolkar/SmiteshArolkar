@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm an experienced software developer with a<br>passion for creating innovative solutions that <br>encourage company expansion. My expertise in a variety of programming languages and technologies,which I have more than +2 years of experience in, are matched by my diversified background working with clients from different industries, which has polished my strategic thinking, problem-solving skills, and leadership qualities.<br>Programming Languages that i use : JavaScript, C++, HTML & CSS, C, Python .
+I'm an experienced software developer with a passion for creating innovative solutions that encourage company expansion. My expertise in a variety of programming languages and technologies,which I have more than +2 years of experience in, are matched by my diversified background working with clients from different industries, which has polished my strategic thinking, problem-solving skills, and leadership qualities.<br>Programming Languages that i use : JavaScript, C++, HTML & CSS, C, Python .
 
 
 ## 🌐 Socials:
